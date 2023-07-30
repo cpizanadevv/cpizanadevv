@@ -1,4 +1,6 @@
-### Hi, my name is Carol, an aspiring software developer with passion for art. I enjoy expressing my creativity through various art forms like digital design and painting. My goal is to refine my coding skills and contribute to projects that positively impact people's lives. I am eager to collaborate with like-minded individuals and organizations that value both creativity and technical expertise.
+### About Me
+
+Hi, my name is Carol, an aspiring software developer with passion for art. I enjoy expressing my creativity through various art forms like digital design and painting. My goal is to refine my coding skills and contribute to projects that positively impact people's lives. I am eager to collaborate with like-minded individuals and organizations that value both creativity and technical expertise.
 
 <!--
 **cpizanadevv/cpizanadevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
