@@ -2,6 +2,12 @@
 
 Hi, my name is Carol, an aspiring software developer with passion for art. I enjoy expressing my creativity through various art forms like digital design and painting. My goal is to refine my coding skills and contribute to projects that positively impact people's lives. I am eager to collaborate with like-minded individuals and organizations that value both creativity and technical expertise.
 
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 <!--
 **cpizanadevv/cpizanadevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
