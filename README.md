@@ -8,10 +8,10 @@ Hello, my name is Carol, and I'm a software engineer with a deep passion for cre
 I enjoy expressing my creativity not only through code but also through various art forms like digital design and painting. My goal is to refine my skills and contribute to projects that make a meaningful impact on people's lives. I'm always eager to collaborate with like-minded individuals and organizations that value both creativity and technical expertise.
 
 ## 🛠️ Skills & Technologies
-* **Frontend** • React • Redux • Vite • HTML • CSS • Sass • Tailwind
-* **Backend** • Express • Flask • PostgreSQL • Supabase • SQLite • Sequelize • SQLAlchemy • TypeORM • AWS S3 • Redis
-* **Languages** • JavaScript • TypeScript • Python • Java
-* **Other** • Node • Git • Github  • Docker • Linux • Unix • Bash • SSH • Mocha • Chai • Asana
+* **Frontend**: React, Redux, Vite, HTML, CSS, Sass, Tailwind
+* **Backend**: Express, Flask, PostgreSQL, Supabase, SQLite, Sequelize, SQLAlchemy, TypeORM, AWS S3, Redis
+* **Languages**: JavaScript, TypeScript, Python, Java
+* **Other**: Node, Git, Github, Docker, Linux, Unix, Bash, SSH, Mocha, Chai, Asana
 
 ## 🔗 Connect with Me
 * Portfolio: [cp-portfoio.onrender.com](https://cp-portfoio.onrender.com/)
